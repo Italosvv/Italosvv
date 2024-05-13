@@ -3,7 +3,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/Italosvv/Italosvv/blob/main/img/giphy.gif.png?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/Italosvv/Italosvv/blob/main/img/giphy.gif.raw=true"/>
 </div>
 
 -----
